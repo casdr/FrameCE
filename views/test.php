@@ -1,0 +1,1 @@
+<?php echo lang::get('test.main', array('name'=>'Cas')); echo lang::getLang(); ?>
